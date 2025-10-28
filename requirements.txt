@@ -11,5 +11,5 @@ six>=1.7
 coverage
 boto3
 flask
-enum
+enum34
 requests
